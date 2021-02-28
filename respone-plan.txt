@@ -7,18 +7,30 @@
 4. I told you,no problem if you ediot. You must be LEARN!!!
 3. stay be cool :)
 
-*Learn Bahasa Program & Markup*
+*Learn Desain & FrameWork*
 
 - FrontEnd
-  ^ html 
-  ^ Css
-  ^ JavaScripts
+
+  ^ FrameWork
+      ~ Boostrap
+      ~ Materials
+      ~ Tail Wind
   
+  ^ Styling
+      ~ UI 
+      ~ UX
+      ~ DW
 
 - BackEnd
-  ^ Python
-  ^ Php
-  ^ Ruby
-  ^ Node Js
-  
+  ^ FrameWork
+      ~ Laravel
+      ~ Code Igner
+      ~ Symphony
+      
+  ^ Styling
+      ~ Vscode
+      ~ Pycharm
+      
+      
+
 
