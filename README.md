@@ -1,2 +1,2 @@
 # Memory-Saloy
-Ty to get Smething
+Ty to get Something
