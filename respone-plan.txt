@@ -10,7 +10,15 @@
 *Learn Bahasa Program & Markup*
 
 - FrontEnd
+  ^ html 
+  ^ Css
+  ^ JavaScripts
+  
 
 - BackEnd
-
+  ^ Python
+  ^ Php
+  ^ Ruby
+  ^ Node Js
+  
 
