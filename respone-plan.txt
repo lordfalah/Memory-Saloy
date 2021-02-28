@@ -16,15 +16,20 @@
       ~ Tail Wind
   
   ^ Styling
-    ~ UI 
-    ~ UX
-    ~ DW
+      ~ UI 
+      ~ UX
+      ~ DW
 
 - BackEnd
   ^ FrameWork
       ~ Laravel
       ~ Code Igner
       ~ Symphony
+      
+  ^ Styling
+      ~ Vscode
+      ~ Pycharm
+      
       
 
 
